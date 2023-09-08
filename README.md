@@ -63,17 +63,3 @@ Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos 
    git push origin minha-feature
    ```
 
-5. Abra um Pull Request para o repositório original.
-
-## Suporte e Contato
-
-Se você tiver dúvidas, sugestões ou encontrar problemas ao usar o **Responsive Travel Website**, entre em contato conosco:
-
-- **Email de Suporte:** [seu-email@exemplo.com]
-- **Website Oficial:** [URL do website oficial]
-
-## Agradecimentos
-
-Agradecemos por usar o **Responsive Travel Website**. Esperamos que ele seja útil para planejar suas próximas aventuras e descobrir novos destinos emocionantes.
-
-**Divirta-se explorando o mundo!**
